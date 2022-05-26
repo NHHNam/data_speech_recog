@@ -1,1 +1,0 @@
-to make sure the transaction is safe
